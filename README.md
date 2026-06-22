@@ -21,7 +21,7 @@ Two ways, pick whichever fits. Both do the same job: make your AI read the right
 **Upload the WHOLE `jaredrhod-marketing` folder, not just `SKILL.md`.** When you upload the skill in Claude, drag the entire folder into the upload window. The `SKILL.md` is just the map. The actual playbooks sit right next to it, and Claude reads them out of that same folder on demand. Drop in only `SKILL.md` and nothing works.
 
 - In Claude Code: put the folder at `~/.claude/skills/jaredrhod-marketing/` (every project) or `.claude/skills/jaredrhod-marketing/` (one project). It shows up as `/jaredrhod-marketing`.
-- On claude.ai: zip the `jaredrhod-marketing` folder first, then upload that `.zip` through the Skills interface. The uploader needs a zip, not a loose folder.
+- On claude.ai: download the ready-made **`jaredrhod-marketing.zip`** from this repo and upload it through the Skills interface. The uploader needs a zip, not a loose folder. (Edited the files yourself? Re-zip the `jaredrhod-marketing` folder and upload that instead.)
 
 Once it is in, Claude pulls the principles and the matching playbook automatically before any marketing work.
 
@@ -42,8 +42,10 @@ Your Vault/
     jareds-takes.md         <- my core principles, always read these first
     the-fundamentals.md     <- the whole funnel, start to finish
     marketing-copywriting.md
+    marketing-sales-letter.md
     marketing-content.md
     marketing-cro.md
+    marketing-analytics.md
     marketing-email.md
     marketing-fb-ads.md
     marketing-lead-magnets.md
@@ -64,8 +66,10 @@ Everything below lives in `jaredrhod-marketing/`:
 - **jareds-takes.md**: my core marketing principles, 34 of them, in my own voice. The foundation everything else sits on. Read first.
 - **the-fundamentals.md**: the whole sales funnel start to finish (Content, Lead Magnet, Tripwire, Core Offer, Profit Maximizer).
 - **marketing-copywriting.md**: the words that make people buy.
+- **marketing-sales-letter.md**: David Frey's 12-step structure for long-form sales letters and pages.
 - **marketing-content.md**: the content library that moves people through the funnel.
 - **marketing-cro.md**: conversion rate optimization, getting more out of the traffic you already have.
+- **marketing-analytics.md**: which numbers to track and how to turn them into decisions.
 - **marketing-email.md**: the highest-ROI channel, run right.
 - **marketing-fb-ads.md**: paid ads, and where they actually fit (top of funnel, not the close).
 - **marketing-lead-magnets.md**: the offer that turns a stranger into a lead.

@@ -16,11 +16,13 @@ Before producing anything, read these files in order. Read only the ones the tas
 2. If the task touches the funnel or overall strategy, read [the-fundamentals.md](the-fundamentals.md). The full sequence: Content, Lead Magnet, Tripwire, Core Offer, Profit Maximizer.
 3. Then read the one playbook that matches the task:
    - Copy, headlines, sales and opt-in pages: [marketing-copywriting.md](marketing-copywriting.md)
+   - Long-form sales letters and sales pages, the 12-step structure: [marketing-sales-letter.md](marketing-sales-letter.md)
    - Email, sequences, broadcasts: [marketing-email.md](marketing-email.md)
    - Paid ads, Facebook and beyond: [marketing-fb-ads.md](marketing-fb-ads.md)
    - Lead magnets and opt-in offers: [marketing-lead-magnets.md](marketing-lead-magnets.md)
    - Content marketing and the content library: [marketing-content.md](marketing-content.md)
    - Conversion rate optimization: [marketing-cro.md](marketing-cro.md)
+   - Analytics, metrics, and what to actually measure: [marketing-analytics.md](marketing-analytics.md)
 
 ## The one rule
 
