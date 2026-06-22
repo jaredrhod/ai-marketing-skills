@@ -12,7 +12,7 @@ This is the marketing playbook of jaredrhod (@jaredrhod), pulled from running re
 
 Before producing anything, read these files in order. Read only the ones the task actually needs.
 
-1. Always read [jareds-takes.md](jareds-takes.md) first. The 34 core principles everything else sits on: sell the feeling not the product, the headline is the whole game, your list is a bank account, you make your money after the first sale, and more.
+1. Always read [jareds-takes.md](jareds-takes.md) first. The 35 core principles everything else sits on: sell the feeling not the product, the headline is the whole game, your list is a bank account, you make your money after the first sale, and more.
 2. If the task touches the funnel or overall strategy, read [the-fundamentals.md](the-fundamentals.md). The full sequence: Content, Lead Magnet, Tripwire, Core Offer, Profit Maximizer.
 3. Then read the one playbook that matches the task:
    - Copy, headlines, sales and opt-in pages: [marketing-copywriting.md](marketing-copywriting.md)

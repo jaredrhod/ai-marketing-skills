@@ -63,7 +63,7 @@ Now any time you ask your AI to write or plan something, it reads the principles
 
 Everything below lives in `jaredrhod-marketing/`:
 
-- **jareds-takes.md**: my core marketing principles, 34 of them, in my own voice. The foundation everything else sits on. Read first.
+- **jareds-takes.md**: my core marketing principles, 35 of them, in my own voice. The foundation everything else sits on. Read first.
 - **the-fundamentals.md**: the whole sales funnel start to finish (Content, Lead Magnet, Tripwire, Core Offer, Profit Maximizer).
 - **marketing-copywriting.md**: the words that make people buy.
 - **marketing-sales-letter.md**: David Frey's 12-step structure for long-form sales letters and pages.
