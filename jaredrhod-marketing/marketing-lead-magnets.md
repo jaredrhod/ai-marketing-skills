@@ -20,6 +20,8 @@ Here's the thing people get wrong. They hold back. They think if they give away 
 
 Frank Kern taught me this: give away your best stuff, and also sell the stuff you give away. Will some people take everything free and never pay you a dime? Yes. They're real, and they don't matter. Most people don't behave that way. The majority of people want to return the favor when you genuinely help them. Goodwill is a real force. Use it.
 
+One scope note: "give it away and also sell it" works literally when what you sell IS information, like a course or a membership. If you sell a physical product, software, or a service, the free thing is the content and know-how around it, not the product itself. Give away the content, sell the product.
+
 The fear comes from not realizing how much you actually have. Think about the one question everyone always asks you. That's your content. That's your lead magnet. And there's never just one question. There's a whole library in you if you look.
 
 So build something you're actually proud of. Something that helps people for real. That's what makes someone want to stay on your list and eventually buy.
