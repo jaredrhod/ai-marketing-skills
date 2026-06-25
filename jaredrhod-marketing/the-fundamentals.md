@@ -138,7 +138,7 @@ Or, if you have that large following, you could just make a new piece of content
 
 "A Lead Magnet is an irresistible bribe that gives a specific chunk of value to a prospect in exchange for their contact information." This is a direct quote from Ryan Deiss, a God of marketing.
 
-And it needs to be consumable in 5 minutes or less and actually give the answer to the problem.
+Ideally they can consume it fast, but that is a guideline, not a law. One of my best lead magnets ever is a 30-Day Action Plan, and it takes 30 days to actually work through. The real bar is this: it gets delivered the second they opt in, it actually gives the answer to the problem, and it makes them glad they handed over their email. Fast to consume helps. Real value wins.
 
 **A lead magnet could be a…**
 
@@ -155,11 +155,13 @@ It needs to be **specific** and answer one big question.
 
 The main difference between a lead magnet vs. content is that people now need to give you their email address (or phone number) to get the thing you're offering them.
 
+And here's the line between a lead magnet and a tripwire, because people mix them up: it comes down to what the prospect gives up. If all they give you is an email, it's a lead magnet. If they have to give up their time (sitting through an hour-long webinar) or access to their wallet (a free trial that asks for a credit card), that's really a tripwire, even if you never charge them. Keep them straight.
+
 **Examples of BAD lead magnets**
 
 - Sign up for our newsletter (not specific)
 - Learn how to do marketing (too generic)
-- Get my free course (can't consume in under 5 minutes)
+- Get our updates and special offers (names a delivery mechanism, not an outcome)
 
 **Examples of GOOD lead magnets**
 
@@ -189,7 +191,7 @@ A good way to determine whether or not your lead magnet is relevant to your audi
 
 For example, if 100 people visit your squeeze page where they can sign up for your lead magnet, and 35 of them submit their email addresses, then you’d have a 35% opt-in rate (which is pretty standard).
 
-**Anything below 25% needs work and anything above 35% is a home run.**
+**Below 25% needs work, 25 to 35% is solid, and above 35% is great. Better than 50% is exceptional, and it's reachable on a narrow, specific offer to the right traffic, like my Confidence Checklist, which clears 50% to cold.**
 
 #### **Setting Up Your Lead Magnet**
 
