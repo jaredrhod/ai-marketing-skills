@@ -1,77 +1,62 @@
-# Marketing analytics: turning numbers into decisions
+# Analytics
 
-**What this is:** how to read your data without drowning in it. The point of analytics is not to measure everything, it's to know which numbers actually drive a decision and what to do when one of them moves. Reach for this when someone asks what to track, why a metric is sliding, or how to tell whether their marketing is actually working.
+**What this is:** how to read your numbers without drowning in them. This isn't a list of every metric you could track. It's the handful that actually drive a decision, and how to think about them. (The per-channel numbers live in their own notes: ROAS and your baseline in the ads note, clicks-not-opens in email, opt-in rates in lead magnets, cost per view in content. This note is how to think about all of it at once.)
 
-**Credit where it's due:** the framework here, the three principles, the funnel-metric map, the lingo, comes from DigitalMarketer's Ultimate Guide to Digital Marketing, Chapter 7. What's mine is how I actually use it: which numbers I trust, which ones I ignore, and how I keep data from turning into paralysis.
+## Simplicity is the whole philosophy
 
-## The one trap to avoid: measuring everything
+My philosophy in life is simplicity. I take complicated things and make them simple, because I understand the simple things underneath them. My numbers are no different. The signature of something well-made is a simple design, not a complicated one, and that's exactly how I read my data. Simpler is better, every time. Most people bury themselves in dashboards and end up more confused than when they started, no closer to knowing what to actually do. Don't be that person.
 
-Most people bury themselves in dashboards and end up paralyzed, no clearer on what to do than before they started. Data for its own sake is noise. You only need three things: a process for handling metrics, a way to know which ones matter, and the context to understand why they're moving. Get those and your numbers start telling you the truth instead of burying you.
+## Know your numbers, or you can't make a single decision
 
-## Principle 1: Give every metric a job
+If you don't know your numbers, you cannot make a real decision. You're just guessing. So before you send one visitor anywhere, make sure you can track what happens to them. Set up your Facebook pixel, your analytics, whatever you're using. There are a lot of ways to do it and it doesn't really matter which one you pick, as long as it's accurate. No tracking, no decisions.
 
-If a number isn't going to change a decision you make, stop tracking it. Every metric you watch should have a job: it reports the health of a specific stage of your funnel (top, middle, bottom, or post-sale), and it's either a key metric (overall health) or a drill-down metric (the answer to a specific question when the key metric moves). Don't measure everything. Measure what drives action.
+## Everything runs on a baseline
 
-## Principle 2: Use the numbers to test, not to stare
+The way I actually read numbers is dead simple: you establish a baseline, then you measure against it. What does it cost to get a video view? A lead? A tripwire sale? What's your email open rate? Those are your baselines. If you're just starting out and have nothing to compare against, then you run some ads and send some emails and see what comes back, because that's the only way to get a baseline in the first place. Once you have one, the read is easy: below baseline is good, above baseline needs work. That's the whole skill.
 
-Raw data on its own means nothing. You make it useful by running it like a scientist:
+## Turn your numbers into verdicts
 
-1. Ask a question. "Why is this number trending down?"
-2. Make a guess. "It's probably down because of X, Y, or Z."
-3. Test the guess. Use your drill-down metrics to prove it or kill it.
-4. Act. Run with the answer, then watch the result.
+Knowing your numbers is step one. The leap most people never make is turning a number into a decision automatically. Don't just look at your cost per lead and sit there trying to decide how you feel about it. Decide the thresholds ahead of time and let the number make the call.
 
-That's the whole game, and it lines up with how I run everything: change one thing, measure it, keep what works. DigitalMarketer's own example: they noticed lumpy member conversions, guessed a $1 trial would convert better than full-pay, tested it with a cohort analysis, proved it, switched the offer, and added 1,000 members. That's a question turned into money.
+Here's how I do it. I know what a lead is worth to me, so I draw the lines in advance. If my cost per lead is under half of what a lead is worth, that's a scale signal, push more money in. If it's between half and 80% of the lead's value, that's hold, leave it alone. If it climbs past 80%, that's the kill zone, the ad is costing me almost as much as the lead is even worth, so it gets fixed or shut off. The number doesn't make me think anymore. It just tells me what to do.
 
-## Principle 3: Read the data through context
+Set your own thresholds for whatever number matters to you, and the staring stops. The metric makes the decision for you.
 
-Numbers don't tell you everything. Before you act on a move in the data, run it through four filters:
+## My actual dashboard
 
-- **History:** is this seasonal or a recurring pattern? "We always dip in summer, so we plan for it."
-- **Outside forces:** competitor moves, a Google update, a platform change, anything outside your control.
-- **Your own moves:** did YOU change something? A new campaign, a redesign, a strategy pivot, a new audience.
-- **How the data was pulled:** raw numbers vs percentages, outliers, whether the data is even valid.
+I have a dashboard my AI updates for me every morning, and the important word is simple. It is not a sprawling wall of charts. It shows me four things:
 
-A metric that looks like it cratered might just be a seasonal dip, a reporting glitch, or the result of a change you made on purpose. Context keeps you from panicking over a number that isn't saying what you think it is.
+- My MRR (recurring revenue).
+- How much more I've made since the last update.
+- What it's costing me to get a Facebook sale.
+- The lifetime value of a customer.
 
-## The funnel-metrics map
+That last one, lifetime value, is the number that unlocks all the others. If I know a customer is worth $200 to me over the life of the relationship, then I know exactly how much I can afford to spend to get one, because I know what's coming back. Without LTV you're just guessing at what you can spend. With it, you can outspend every competitor who only looks at the first sale. (That's the "spend the most to acquire a customer wins" idea from the ads note, and LTV is the number that makes it real.)
 
-Organize your metrics by where they sit in the customer journey. Each stage has key metrics (the health check) and drill-down metrics (the diagnostics when something's off).
+## The Facebook numbers I actually watch
 
-### Top of funnel (awareness)
-Goal: new people discovering you.
-- **Key:** new visitors, percent new visitors, new direct visitors, total pixeled audience, retargeting list size.
-- **Drill-down:** branded search, content bounce rate, pages per visit, average session length, inbound links.
-- Operator read: a spike in people typing your URL directly is one of the cleanest signals that your awareness content and ads are landing.
+Two of them, mostly: cost per unique outbound click, and cost per result.
 
-### Middle of funnel (visitors into leads)
-Goal: people raising their hand (an email, a form, a follow). That's the commitment that says "you can keep talking to me."
-- **Key:** new leads generated, returning direct visitors, opt-in and banner click rate, retargeting list growth.
-- **Drill-down:** individual page opt-in rates, social follows and shares.
+Cost per unique outbound click matters because Facebook's plain "click" number is inflated. Facebook counts a click when someone clicks your ad OR just hits play on a video. If your goal lives on Facebook, like a video view, a click is fine. But if you're sending people OFF Facebook to your own page, watch cost per unique outbound click, because those are the people actually leaving to go to your site. And unique, because you do not care if the same person clicked five times. You want the real bodies.
 
-### Bottom of funnel (leads into buyers)
-Goal: the first purchase, the hardest threshold to cross. Remember, once someone buys anything, even a few bucks, their odds of buying again jump about 10x. That's the whole reason a tripwire works.
-- **Key:** average order value, revenue per visit, days to conversion, funnel conversion rate.
-- **Drill-down:** individual funnel conversion rates, offer-page bounce rates, promo email performance.
+Cost per result is the other one. If I'm running a lead-magnet ad, I watch what it actually costs me to get one opt-in, tracked through the pixel.
 
-### Post-conversion (keep and grow)
-Goal: retention, lifetime value, and the ROI on all that traffic you bought.
-- **Key:** retention and churn, refund rate, traffic ROI, members on vs off.
-- **Drill-down:** cohort analysis, customer lifetime value, buyer recency and frequency, newsletter performance.
+## Don't take the platform's word for it
 
-## The lingo, fast
+That inflated click count is a small piece of a bigger rule: don't fully trust the numbers an ad platform reports about itself. Facebook will over-credit and under-credit your results constantly, because it's grading its own homework and it has every reason to look good for you. The real source of truth is your side, your pixel, your email tool, the conversions and the dollars you can actually verify. When the platform's number and your own number disagree, believe your own.
 
-- **UTM parameters:** tracking codes you append to a link so your analytics knows where a click came from. Format: `?utm_source=X&utm_medium=Y&utm_content=Z&utm_campaign=W`. Source is the audience or referrer (your house list), medium is the channel (email), content is the specific ad or link, campaign is the promotion name. Tag your links and you can finally see which sources and campaigns drive real buyers.
-- **KPI:** a fancy term for a key metric, the number you believe is driving the business. Use it when you're talking about the few numbers that actually matter.
-- **Dashboard:** one page that pulls the metrics from a single source (analytics, email tool, payment processor) into graphs for an at-a-glance health check. Make it visible to the whole team.
-- **Analytical decision making:** the scientific method applied to your data. Question, hypothesis, test, decision.
+## How a lead-magnet ad ages, told in numbers
 
-## Who owns the numbers
+Here's a pattern worth knowing, because the numbers tell you exactly when to act. A brand-new lead-magnet ad usually starts cheap, because you're scooping up the low-hanging fruit, the people who were most ready to grab it. Over time it gets more expensive as you work through them. When the cost starts climbing, that's your signal: swap in fresh ads, or maybe even a whole new lead magnet. And once the cost climbs past the point where it stops making sense, you just turn it off. You don't argue with it. The numbers already told you it's done.
 
-- **Whoever runs data and analytics** gathers, vets, and interprets it, and turns it into dashboards people can actually use.
-- **Every marketer** needs basic analytics literacy. You don't have to run the analysis, but you have to understand what the data is saying, what's working and what's not.
-- **Whoever runs conversion optimization** lives on this data: it's where the test hypotheses come from and how the results get measured.
+## Read every number through context before you react
 
-## The bottom line
+This is the one that saves you from panicking over nothing. A number on its own does not mean what you think it means until you run it through context. Is it seasonal? Did something change outside your control? And the big one: did YOU change something on purpose that explains it?
 
-Don't let the numbers overwhelm you. Give each metric a job, run questions through a test instead of staring at a chart, and read every move through context. Do that and your data stops being a wall of noise and starts giving you confidence that the marketing is working, or telling you exactly where to go fix it.
+Here's a real example from my own dashboard. We track the list of people we actively email, meaning the people who aren't members, aren't suppressed, aren't already sitting in an automation, and who actually open or click. At the same time, we funnel everyone who has gone quiet, no opens, no clicks, into a re-engagement campaign. The moment they enter that campaign, the size of the list we email drops. Out of context, that looks like a disaster: "my list is shrinking." In context, it's the exact opposite. The list is getting healthier on purpose, because we're clearing out dead weight, and that number is going to keep falling until the cleanup finishes and then climb back up. If I reacted to the falling number without knowing what I'd set in motion, I'd "fix" something that was working perfectly.
+
+Two quick habits go with this. First, judge off a trailing window, a rolling seven days, not a single day, because any one day on its own is mostly noise and you'll make panic decisions off of it. Second, when a number does something shocking, especially if it suddenly reads zero or goes dead flat, check that your tracking didn't just break before you react. I've had a dashboard quietly start reporting a day's ad spend as zero because of a reporting bug, not because anything actually changed. A shocking number is a reason to check the plumbing first, not to panic.
+
+## The one thing to remember
+
+Ryan Deiss said it best: you don't have a traffic problem, you have a conversion problem. Traffic is easy and it's cheap. You can buy all of it you want on Facebook. The hard part, and the part worth all your attention, is converting it once you've got it. So keep your numbers simple, know them cold, read them in context, and point all of them at the same question: is this converting, and what do I do next.

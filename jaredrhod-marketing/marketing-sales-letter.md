@@ -1,81 +1,71 @@
-# The 12-step sales letter
+# The Sales Letter
 
-**What this is:** a mechanical, step-by-step structure for a long-form sales letter or sales page, built to knock down every buyer objection in order. Where the copywriting playbook gives you the voice and the emotional arc, this gives you the skeleton: the exact sequence of moves that walks a cold reader to a yes. Use it as a structure check on any sales letter or landing page.
+**What this is:** the skeleton. The copywriting note is *how* you write each piece. This note is the structure you hang those words on: the order of a long sales page, and the job each part does. Run your finished page against it like a checklist. Where a step is about the actual writing, I point you back to the copywriting note instead of repeating it.
 
-**Credit where it's due:** this is David Frey's 12-step sales letter system. It's a classic, widely-taught direct-response framework, not something I invented. What I do is run my pages against it like a checklist and pair it with the voice and story techniques in the copywriting file.
+**Where the structure comes from:** the 12-step layout is David Frey's sales letter system. I didn't invent it, and it's worth knowing whose it is. I've run my pages against it for years. He gets the credit for the framework. Everything below is how I actually use it.
 
-## The 7 objections every letter has to beat
+## This is a checklist, not a recipe
 
-Before anyone buys, they have to resolve these in their head, whether they say them out loud or not:
+Here's maybe the most important thing I can tell you, and it's true for all of marketing, not just this: these are guidelines, not rules. I do not run all 12 steps in the same order every time. Sometimes I skip one. Sometimes I merge two into one. Sometimes I run it straight down the list. And sometimes breaking the rule flat out beats following it.
 
-1. "You don't understand my problem."
-2. "How do I know you're qualified?"
-3. "I don't believe you."
-4. "I don't need it right now."
-5. "It won't work for me."
-6. "What happens if I don't like it?"
-7. "I can't afford it."
+The judgment for what you can skip is something you earn by writing a lot of pages. After enough reps you can feel when a step is carrying weight and when it's dead air. So don't treat these 12 as a recipe you have to obey top to bottom. Treat them as a checklist you run your page against, to make sure you didn't accidentally leave a question unanswered. The list is here so nothing important slips. It is not here to box you in.
 
-Every one of the 12 steps below exists to answer one or more of these, in a deliberate order.
+## What the page is really doing: answering objections
 
-## What actually motivates a buyer
+Before anyone buys, they've got a running list of objections in their head, whether they ever say them out loud or not:
 
-Two forces move people: the promise of gain and the fear of loss. Fear of loss is the stronger of the two. "How to Improve Your Marriage" sells. "How to Stop Your Divorce" sells several times better. Same topic, the loss framing wins.
+1. You don't understand my problem.
+2. How do I know you're qualified?
+3. I don't believe you.
+4. I don't need it right now.
+5. It won't work for me.
+6. What happens if I don't like it?
+7. I can't afford it.
 
-And underneath every purchase is one of a handful of deeper wants: to be wealthy, good-looking, healthy, popular, secure, at peace, to have more free time, or to have more fun. Your product is just a vehicle to one of those. Always frame the benefit through the want, not the feature.
+The whole page exists to knock those down, one by one. Every step below is really there to answer one of them.
+
+And here's the part that makes this an art instead of a form to fill out: you'll often answer one objection *inside* another step, and when you do, the standalone step disappears. The clearest example is your credentials. If you establish who you are while you're telling the opening story, you've already answered "how do I know you're qualified," so you don't need a separate credentials section at all. That's what I mean by guidelines, not rules. The objection still has to get answered. Where and how is your call.
 
 ## The 12 steps
 
-Each step builds emotion while calming a fear. They run in sequence, and each one adds to the case.
+**1. The headline (always).** Its only job is to get attention. No attention, nobody reads step two, and the whole thing dies. How to actually write one is in the copywriting note. Just know that nothing else matters if this misses.
 
-### 1. Get attention
-The headline is the whole ballgame at the top. People sort their inbox and their mail over the trash can. If the headline doesn't grab them, the letter is already gone. Three templates that reliably work:
-- **How to [benefit].** People love knowing how to do things. Pair "how to" with a real payoff. "How to Build a Solid Foundation With Any New Horse."
-- **Secrets of [thing] revealed.** Insider knowledge feels exclusive and powerful. "Secrets of the First 30 Days That Transform Problem Horses."
-- **Warning: don't even think of [thing] until you [thing].** Pure fear-of-loss, and a warning is hard to ignore. "Warning: Don't Even Think of Riding Your New Horse Until You Read This."
+**2. Identify the problem (always).** This answers "you don't understand my problem," and you do it with the opening story. When you nail their pain so exactly that they think "that's me," they know they're in the right place. One thing to keep in front of you: the way you call them out *targets a specific sect of people*. "I've been fat my whole life" speaks to someone who has been, and it deliberately does not speak to someone who's ten pounds over and wants to tighten up. That's a different person and a different page. Who you leave out is as important as who you call in. (The writing of the story is in copywriting.)
 
-### 2. Identify the problem
-Tell the reader how it FEELS to have the problem, so vividly they think "that's exactly me." Rub salt in the wound. Agitate it, make them feel the pain, because people only change when the pain gets bad enough. Tell a short, specific, sensory story that drops them right back into the moment.
+**3. Provide the solution (always).** Now you turn the corner and introduce your product as the answer. This is where the mechanism you hinted at in the headline finally lands. (Copywriting covers the reveal.)
 
-### 3. Provide the solution
-Now that they feel the pain, introduce yourself and your product as the relief. Tell them they don't have to keep struggling, you've got the answer. Keep it brief, you're just pivoting from problem to solution here.
+**4. Your credentials (always, but often merged).** This answers "how do I know you're qualified." And your credentials do not have to be a wall of sales numbers and awards. "I did this myself and it worked, and other people did it with me and it worked for them" is a perfectly good credential. As I said up top, you'll frequently fold this into the opening story, and if you do, you can skip a dedicated section here.
 
-### 4. Present your credentials
-The reader is thinking, "sure, that's what everyone says." Prove you can be trusted. Show you've been there and done it, repeatedly. Any of these work: named case studies with real outcomes, notable companies or people you've worked with, how long you've done this, stages you've spoken on, awards or recognition. The goal is for them to feel you deliver results consistently.
+**5. The benefits (always).** This is what makes them actually want it. Benefits, never features, and the benefit leads. The full drill for this is in the copywriting note.
 
-### 5. Show the benefits
-Don't list features. List benefits. Nobody cares what the product is or does, only what it does for THEM. The exercise: draw a line down a page, features on the left (what it is or does), benefits on the right (what they get or feel). Most products have hidden benefits the buyer would never think of on their own (a hot tub relaxes your muscles, but the hidden benefit is uninterrupted time with your spouse and a better marriage). Bullet every benefit, because people often buy off a single one.
+**6. Proof (always).** This answers "I don't believe you," and you beat it with evidence. The better your evidence, the more they believe, so you gather the best you've got: testimonials, photos, before-and-afters, real results. It does not have to be social proof specifically. Any genuine proof counts.
 
-### 6. Give social proof
-They want it to be true, they just don't believe you yet. Testimonials carry the proof you can't make for yourself. Real names, cities, and photos make it believable that these are real people. Specific outcomes and timelines crush generic praise. "My churn dropped 40% in 60 days" beats "this product is amazing" every time.
+**7. The offer (always).** Remember, an offer is not your product, it's a variation of your product packaged to be a no-brainer. A bad offer kills a good page, so make it strong. (Offer construction is in copywriting.)
 
-### 7. Make your offer
-A great offer can carry mediocre copy. Mediocre copy can't save a mediocre offer. Build the offer so they think "I'd be stupid to pass this up." The best ones stack: a strong price, favorable terms (payment plans, delayed billing), free bonuses, and add-ons. You can also raise the perceived value by spelling out the benefits vividly or bundling.
+**8. The guarantee (always).** This answers "what happens if I don't like it," and you always include one. It can be cancel-anytime, a refund up to a certain date, or, if your results are the kind you can actually see, a flat guarantee of results: no results, money back. That last one is about as strong as it gets. The form is up to you. Having one is not optional, because every single buyer is asking this question.
 
-### 8. Give a guarantee
-Take the risk off the table, because people are afraid of getting burned. Offer the strongest guarantee you can stomach and STATE it plainly (most businesses would refund an angry customer anyway, so make it explicit). The strongest version names a specific result, promises a full refund if it isn't hit, and refunds even if the customer just FEELS it fell short. A strong guarantee won't sink you. When's the last time you demanded a full refund? Refunds stay low because the product works. Pro move: explain WHY you can offer a guarantee that good, it makes it believable.
+**9. Scarcity (skip only when it's impossible).** This answers "I don't need it right now." Some people honestly don't, and that's fine, but a page works far better when you give real reasons to act today. The more honest reasons not to wait, the better. The way I do it: offers that open and close, with a timer at the top counting down to when the page shuts. When it closes, the timer redirects to a page that says the deal is gone and to watch their inbox for the next one. Urgency works, every time I've tested it. This is the one step you'll genuinely skip sometimes, because once in a while there's just no honest way to create scarcity, and a fake deadline is worse than none.
 
-### 9. Inject scarcity
-People procrastinate even on great offers, because the pain isn't sharp enough, they're busy, or they're just lazy. Real scarcity creates urgency: a deadline to get the bonuses, a limited supply, a price that goes back up after a date. One hard rule: if you say the deadline is real, honor it. Faking scarcity and then not following through burns trust.
+**10. The call to action (always).** Tell them exactly what to do, like it's their first day on earth. The "how" is in copywriting, but the reason it's load-bearing is simple: no click, no sale. You have to get the click before anyone can ever buy.
 
-### 10. Call to action
-Never assume the reader knows what to do next. Spell out exactly how to buy, call this number, fill out this form, click this button, and use action language: "Pick up the phone and call now." Plant the call to action throughout the letter, not just once, and keep it consistent (if a testimonial mentions "their free info line," reference that same line in the offer).
+**11. The warning (helps, not required).** This is where you paint the cost of *not* acting, and it's how you handle "I can't afford it." You flip the math: the real question isn't what it costs to buy, it's what it costs to keep living with the problem. On a weight-loss page: you may not want to do this today, and that's fine, but from experience, if you don't start now you'll keep saying "I'll start Monday" forever. You're on this page for a reason. This is your time. And then you price out the alternative: staying like this has its own bill, the doctor visits, the surgeries, the pills. Suddenly the price of the thing looks small. I don't always run a warning, but it helps when I do.
 
-### 11. Give a warning
-Keep building emotion even after the call to action. Paint the cost of NOT acting. If they do nothing, they keep struggling, keep working too hard for too little, keep watching competitors win, keep getting what they've always gotten. Paint the continued pain, then remind them it doesn't have to be that way.
+**12. The P.S. (always).** Always close with one. It's another chance to summarize the offer, and more importantly it's another shot at the click. Put a link right there, either straight to the order form or back up to the button. People skim to the bottom, so the P.S. catches them, and every extra place to click is an extra chance to buy.
 
-### 12. Close with a P.S.
-Always include a P.S. It's the third most-read part of the letter, after the headline and the opening. Some writers stack several (P.S., P.P.S.). In it, remind them of the offer, the call to action, and the deadline or limited quantity.
+## A note on "it won't work for me"
 
-## A few rules that hold the whole thing together
+Objection five doesn't get its own step, because the way you beat it runs through the whole page: don't scream perfection. The fastest way to lose someone is to make your thing sound flawless, because people are not stupid (about your product, anyway, you still have to spell out where to click). They can smell when you're not being straight, and they're sitting there thinking "yeah, but what about this, and what about that." If you ignore those, you're only hurting yourself.
 
-- **Offer beats copy.** A great offer with okay copy wins. An okay offer with great copy loses. The ideal is both.
-- **Length is whatever it needs to be.** Each step builds the case its own way. Some letters close in half a page, some run 24 pages. Don't cut a step just to be short.
-- **Stuck? Start with the features-and-benefits list.** Write each feature on a card, the benefit on the back. It gives you momentum.
-- **Edit cold.** Finish the letter, let it sit a day, then edit with fresh eyes.
-- **Keep a swipe file.** Save every great ad and letter you come across. Companies spend a fortune on their copy, so use the good stuff as models.
-- **Profile your buyer first.** Before you write a word, write down everything you know about the person you're writing to. Aim the whole letter at them.
+So call out your own limitations, address the elephant in the room, and answer the real questions actual customers have asked you, because if one person asked, plenty more are wondering. The longer you dodge the obvious objection, the longer you wait to make the sale. (Copywriting covers why honesty reads as proof.)
 
-## How this fits with the rest
+## The rules that hold the whole thing together
 
-This system is structural and objection-focused, it gives you the skeleton. Use the copywriting file (`marketing-copywriting.md`) for the voice, story, and emotional resonance that go inside it, the lead-magnets file for the opt-in offers that feed it, and the fundamentals (`the-fundamentals.md`) for where the offer sits in the funnel.
+- **Offer beats copy.** A great offer with okay copy beats an okay offer with great copy. Get the offer right first.
+- **Length is whatever it needs to be.** Some pages close in half a page, some run long. Don't cut a step just to make it shorter.
+- **Edit cold.** Write it, let it sit, come back with fresh eyes. You'll catch things you couldn't see while you were hot.
+- **Profile your buyer before you write a word.** Write down everything you know about the exact person you're writing to, then aim the whole page at them.
+- **Keep a swipe file.** (Covered in copywriting. Build your own, and study the old ads.)
+
+## The one rule underneath all of it: you're talking to a sect, not to everyone
+
+Never forget you are writing to a *certain* group of people, not the general public. The second you try to talk to everyone, the page gets watered down and it suffers. The more specific you are about exactly who your customer is, and the more you can genuinely identify with them, the harder the page hits. Specific beats general every single time. It's true at the headline, it's true in the story, and it's true all the way down to the P.S.

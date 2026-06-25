@@ -44,7 +44,6 @@ Your Vault/
     marketing-copywriting.md
     marketing-sales-letter.md
     marketing-content.md
-    marketing-cro.md
     marketing-analytics.md
     marketing-email.md
     marketing-fb-ads.md
@@ -55,7 +54,7 @@ Your Vault/
 
 Then put something like this inside `Marketing.md`:
 
-> Before doing ANY marketing work (writing copy, an ad, an email, a sales or opt-in page, or planning a funnel) read `jareds-takes.md` first for the principles. Then read the files that fit the task: `the-fundamentals.md` for funnel strategy and structure, plus the specific playbook (copywriting, email, ads, lead magnets, content, or CRO). Load that context before you write a single word.
+> Before doing ANY marketing work (writing copy, an ad, an email, a sales or opt-in page, or planning a funnel) read `jareds-takes.md` first for the principles. Then read the files that fit the task: `the-fundamentals.md` for funnel strategy and structure, plus the specific playbook (copywriting, email, ads, lead magnets, or content). Load that context before you write a single word.
 
 Now any time you ask your AI to write or plan something, it reads the principles and the relevant playbook first, and what comes out sounds like someone who has actually done this for real money instead of generic AI slop. Context is king. The files are the context. The index note makes sure your AI reads them at the right moment.
 
@@ -68,7 +67,6 @@ Everything below lives in `jaredrhod-marketing/`:
 - **marketing-copywriting.md**: the words that make people buy.
 - **marketing-sales-letter.md**: David Frey's 12-step structure for long-form sales letters and pages.
 - **marketing-content.md**: the content library that moves people through the funnel.
-- **marketing-cro.md**: conversion rate optimization, getting more out of the traffic you already have.
 - **marketing-analytics.md**: which numbers to track and how to turn them into decisions.
 - **marketing-email.md**: the highest-ROI channel, run right.
 - **marketing-fb-ads.md**: paid ads, and where they actually fit (top of funnel, not the close).

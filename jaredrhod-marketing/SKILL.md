@@ -21,7 +21,6 @@ Before producing anything, read these files in order. Read only the ones the tas
    - Paid ads, Facebook and beyond: [marketing-fb-ads.md](marketing-fb-ads.md)
    - Lead magnets and opt-in offers: [marketing-lead-magnets.md](marketing-lead-magnets.md)
    - Content marketing and the content library: [marketing-content.md](marketing-content.md)
-   - Conversion rate optimization: [marketing-cro.md](marketing-cro.md)
    - Analytics, metrics, and what to actually measure: [marketing-analytics.md](marketing-analytics.md)
 
 ## The one rule
