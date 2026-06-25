@@ -1,5 +1,4 @@
-# How To Transform Your Business Into A Money Printing Machine
-### Generate Income Online With Funnel Building
+# The Marketing Funnel Fundamentals
 
 *Authored by Jaredrhod*
 
