@@ -81,6 +81,12 @@ I am Jared (@jaredrhod). I run several real businesses on an AI system my AI age
 - AI Memory Vault: https://github.com/jaredrhod/ai-memory-vault
 - Everything else: jaredrhod.com, and @jaredrhod on YouTube, TikTok, Instagram, and X.
 
+## Support
+
+Free to use, and always will be. If this helped you out, you can buy me a coffee:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jaredrhod)
+
 ## License
 
 CC BY-NC-SA 4.0. Free to use and adapt, just credit me, no commercial resale, and any remix stays under the same license. Full terms in LICENSE.
