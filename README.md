@@ -4,6 +4,12 @@ The marketing fundamentals that make AI actually make you money, written in my o
 
 AI does not make you money. The fundamentals do. AI just makes you about 100 times faster at them. This repo is those fundamentals: how I actually run offers, copy, ads, email, funnels, and lead magnets across real businesses, turned into files you hand your AI so it markets like an operator instead of a prompt guru. All free, all ungated.
 
+## AI Priming
+
+AI Priming is having your AI read a specific set of your notes before it gives you the answer or output you want. For example, before my agent writes a marketing email, it reads my copywriting notes, my email marketing notes, my customer avatar, and my company knowledge base. Then it writes. This is extremely powerful because, with AI, context is king. When you "prime" your AI with the knowledge and skills it needs prior to its output, your results will always be better and more accurate.
+
+That is what this repo gives you: the marketing notes to prime your AI with, already written. Full definition and examples: https://jaredrhod.com/ai-priming
+
 ## Start here: set up the AI Memory Vault first
 
 These files are built to plug into the **AI Memory Vault**, my free open-source system that gives your AI a real, persistent memory inside an Obsidian vault. The marketing files are the knowledge. The Memory Vault is the structure that lets your AI store it, find it, and load the right piece exactly when it needs it.
@@ -14,7 +20,7 @@ Set that up first: **https://github.com/jaredrhod/ai-memory-vault**. It is a tut
 
 ## How to use this
 
-Two ways, pick whichever fits. Both do the same job: make your AI read the right context before it writes a word, which is the entire point. Everything is bundled in the **`jaredrhod-marketing/`** folder.
+Two ways, pick whichever fits. Both do the same job: make your AI read the right context before it writes a word. I call that [AI Priming](https://jaredrhod.com/ai-priming), and it is the entire point. These files are ready-made priming stacks for marketing work. Everything is bundled in the **`jaredrhod-marketing/`** folder.
 
 ### Option 1: Install it as a Claude skill (fastest)
 
