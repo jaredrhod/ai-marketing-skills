@@ -97,4 +97,4 @@ Free to use, and always will be. If this helped you out, you can buy me a coffee
 
 ## License
 
-CC BY-NC-SA 4.0. Free to use and adapt, just credit me, no commercial resale, and any remix stays under the same license. Full terms in LICENSE.
+CC BY-SA 4.0. Free to use and adapt, including commercially inside your own business. Just credit me, and any remix stays under the same license. Full terms in LICENSE.
