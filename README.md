@@ -12,17 +12,23 @@ AI Priming is having your AI read a specific set of your notes before it gives y
 
 That is what this repo gives you: the marketing notes to prime your AI with, already written. Full definition and examples: https://jaredrhod.com/ai-priming
 
-## Start here: set up the AI Memory Vault first
+## Two ways in, and you do NOT need Claude Code
 
-These files are built to plug into the **AI Memory Vault**, my free open-source system that gives your AI a real, persistent memory inside an Obsidian vault. The marketing files are the knowledge. The Memory Vault is the structure that lets your AI store it, find it, and load the right piece exactly when it needs it.
+This is the one repo of mine that works without Claude Code. The files are plain markdown; anything that can read them can use them.
 
-Set that up first: **https://github.com/jaredrhod/ai-memory-vault**. It is a tutorial you hand to Claude, and it walks you through the whole build. Once your vault is running, come back here.
+**Regular Claude (the app or claude.ai), no terminal:** download the ready-made [`jaredrhod-marketing.zip`](jaredrhod-marketing.zip) and upload it through Claude's Skills interface. That's it. Claude reads the principles and the right playbook before any marketing work.
 
-(You can use these files without the vault too, the Claude skill below works on its own. But the real payoff is when they live in your vault and your AI pulls the right one automatically.)
+**Claude Code:** paste this and your agent installs it for you, into your vault, as a skill, or both:
 
-## How to use this
+> I'd like to set this up, please: https://github.com/jaredrhod/ai-marketing-skills.git
 
-Two ways, pick whichever fits. Both do the same job: make your AI read the right context before it writes a word. I call that [AI Priming](https://jaredrhod.com/ai-priming), and it is the entire point. These files are ready-made priming stacks for marketing work. Everything is bundled in the **`jaredrhod-marketing/`** folder.
+(Your agent reads `ai-marketing-skills.md`, the setup wizard in this repo, and walks you through it.)
+
+These files are built to plug into the [AI Memory Vault](https://github.com/jaredrhod/ai-memory-vault) if you run it, my free system that gives your AI a real, persistent memory. And they are completely happy without it.
+
+## The manual ways (what the wizard does, if you'd rather do it by hand)
+
+Both do the same job: make your AI read the right context before it writes a word. I call that [AI Priming](https://jaredrhod.com/ai-priming), and it is the entire point. These files are ready-made priming stacks for marketing work. Everything is bundled in the **`jaredrhod-marketing/`** folder.
 
 ### Option 1: Install it as a Claude skill (fastest)
 
