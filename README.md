@@ -95,6 +95,16 @@ I am Jared (@jaredrhod). I run several real businesses on an AI system my AI age
 - AI Memory Vault: https://github.com/jaredrhod/ai-memory-vault
 - Everything else: jaredrhod.com, and @jaredrhod on YouTube, TikTok, Instagram, and X.
 
+## The rest of it
+
+These files get sharper when your AI has a real memory to keep them in, and a place to keep what it learns about your business.
+
+- **The memory system.** [ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) gives your AI a persistent memory these playbooks live inside.
+- **The whole stack, one command.** [fullstack-agent](https://github.com/jaredrhod/fullstack-agent) installs the memory, the voice, the face, and the hands, and wires them together for you. Pick only the pieces you want: https://jaredrhod.com
+- **The videos.** Free series on all of it: https://youtube.com/@jaredrhod
+- **The Discord.** Thousands of builders, and the fastest place to get unstuck: https://discord.gg/YSdsqMv3V8
+- **Everything else,** free and open source: https://jaredrhod.com
+
 ## Support
 
 Free to use, and always will be. If this helped you out, you can buy me a coffee:
