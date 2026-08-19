@@ -2,6 +2,8 @@
 
 > **Never used Claude Code?** Start at [jaredrhod.com](https://jaredrhod.com): pick your situation and it routes you to the right path.
 
+**Runs on:** everything: Claude Code, other terminal AIs, and regular Claude (the app or claude.ai) via the skill zip. The one repo of mine with no terminal anywhere in it.
+
 The marketing fundamentals that make AI actually make you money, written in my own voice, as a ready-to-install Claude skill or drop-in files for your vault.
 
 AI does not make you money. The fundamentals do. AI just makes you about 100 times faster at them. This repo is those fundamentals: how I actually run offers, copy, ads, email, funnels, and lead magnets across real businesses, turned into files you hand your AI so it markets like an operator instead of a prompt guru. All free, all ungated.
