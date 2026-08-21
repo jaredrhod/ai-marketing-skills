@@ -105,7 +105,7 @@ These files get sharper when your AI has a real memory to keep them in, and a pl
 - **The whole stack, one command.** [fullstack-agent](https://github.com/jaredrhod/fullstack-agent) installs the memory, the voice, the face, and the hands, and wires them together for you. Pick only the pieces you want: https://jaredrhod.com
 - **The videos.** Free series on all of it: https://youtube.com/@jaredrhod
 - **The Discord.** Thousands of builders, and the fastest place to get unstuck: https://discord.gg/YSdsqMv3V8
-- **Everything else,** free and open source: https://jaredrhod.com
+- **Everything else,** free and open: https://jaredrhod.com
 
 ## Support
 
