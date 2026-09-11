@@ -1,6 +1,6 @@
 ---
 name: jaredrhod-marketing
-description: Run any marketing task the way jaredrhod actually runs it. Use whenever the user wants marketing work: writing or improving copy, sales pages, opt-in pages, ads, emails, lead magnets, funnels, or marketing strategy. Loads jaredrhod's core principles plus the matching playbook before producing anything, so the output reads like a seasoned operator instead of generic AI.
+description: "Run any marketing task the way jaredrhod actually runs it. Use whenever the user wants marketing work: writing or improving copy, sales pages, opt-in pages, ads, emails, lead magnets, funnels, or marketing strategy. Loads jaredrhod's core principles plus the matching playbook before producing anything, so the output reads like a seasoned operator instead of generic AI."
 allowed-tools: Read
 ---
 
